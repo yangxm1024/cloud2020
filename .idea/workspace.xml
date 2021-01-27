@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75b78fb8-8e0f-4c05-8d04-842356dced0d" name="Default Changelist" comment="" />
+    <list default="true" id="75b78fb8-8e0f-4c05-8d04-842356dced0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cloud-privoder-payment8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-privoder-payment8002/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +199,7 @@
       <workItem from="1611291167709" duration="7000" />
       <workItem from="1611292057981" duration="6000" />
       <workItem from="1611715287337" duration="2265000" />
-      <workItem from="1611717560232" duration="938000" />
+      <workItem from="1611717560232" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交代码">
       <created>1611715716868</created>
@@ -220,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611717922297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="杨新明第一次提交代码">
+      <created>1611718506131</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611718506131</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
