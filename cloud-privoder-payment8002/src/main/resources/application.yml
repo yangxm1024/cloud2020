@@ -28,3 +28,4 @@ eureka:
     instance-id: payment8002
     #显示IP地址
     prefer-ip-address: true
+    #测试一下git提交
